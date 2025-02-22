@@ -32,9 +32,9 @@ export const plansData = [
     name: "PREMIUM PLAN",
     price: "30",
     features: [
-      "5 hour of excercises",
+      "5 hour of excercise",
       "Free consultaion of Coaches",
-      "Accessto minibar",
+      "Access to minibar",
     ],
   },
   {
